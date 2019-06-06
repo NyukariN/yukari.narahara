@@ -19,8 +19,9 @@ header{
   color:white;
   float:left;
   margin-left: 50px;
-  font-family: arial black;
-  font-size: 40px;
+  margin-top:10px;
+  font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-size: 70px;
 }
 .SNS{
   float:right;
@@ -59,12 +60,18 @@ header{
 }
 .logo{
   width:1170px;
+  margin-top:0px;
 }
 .content-text {
   text-align: center;
 }
 .texts{
   margin:0px 30px;
-  font-family: monospace;
-  font-size: 30px;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-size: 40px;
+  color:black;
+}
+
+.texts:hover{
+  color: rgba(125, 178, 69, 1)
 }
