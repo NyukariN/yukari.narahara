@@ -30,18 +30,22 @@
   </div>
 
   <div class="contents">
-        <form name="contact" netlify>
-         <p>
-         <label>Name <input type="text" name="name" /></label>
+    <p>If you would like to contact to me, please sumit this form...</p>
+      <form name="contact" method="POST" data-netlify="true">
+          <p>
+            <label>Your Name: <input type="text" name="name" class="hoge"/></label>
           </p>
           <p>
-          <label>Email <input type="email" name="email" /></label>
+            <label>Your Email: <input type="email" name="email" class="hoge"/></label>
           </p>
           <p>
-          <button type="submit">Send</button>
+            <label>Message: <textarea name="message" class="hoge"></textarea></label>
           </p>
-          </form>
+          <p>
+            <button type="submit" class="submit">Send</button>
           </p>
+        </form>
+    </p>
   </div>
 </div>
 

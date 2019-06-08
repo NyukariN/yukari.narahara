@@ -51,11 +51,10 @@ header{
 .blog{
   background-color: #239b76;
 }
-
-.content{
+.contents{
   background-color:
   text-align: center;
-  width:1170px;
+  width:100%;
   margin:0px auto;
 }
 .logo{
