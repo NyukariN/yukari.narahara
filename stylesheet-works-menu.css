@@ -87,7 +87,7 @@ header{
 .onecontent{
   display: inline-block;
   width: 30%
-  margin:50px 30px;
+  margin:50px, 10px, 30px,30px;
   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
   font-size: 40px;
   color:black;
