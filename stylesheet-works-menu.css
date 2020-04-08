@@ -85,12 +85,13 @@ header{
   margin: 0 auto;
 }
 
-.content-text{
+.contents{
   margin:0px 30px;
   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
   font-size: 40px;
   color:black;
 }
+
 .footer-content{
   background-color:  rgba(34, 49, 52, 0.9);
   width:100%;
