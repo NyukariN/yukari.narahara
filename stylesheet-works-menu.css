@@ -75,7 +75,7 @@ header{
   color: rgba(125, 178, 69, 1)
 }
 
-.contents{
+.onecontent{
   margin-top:50px;
   text-align: center;
 
@@ -85,7 +85,7 @@ header{
   margin: 0 auto;
 }
 
-.contents{
+.onecontent{
   display: inline;
   margin:0px 30px;
   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
