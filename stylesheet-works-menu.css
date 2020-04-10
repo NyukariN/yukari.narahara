@@ -78,19 +78,17 @@ header{
 .image{
   max-width:30%;
   margin: 0 auto;
+  display: inline-block;
 }
 
-.onecontent{
-  display: inline-block;
-  text-align: center
-  width: 40%
+.contents{
+  margin-top:50px;
+  text-align: center;
+  margin-bottom: 30px;
   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-  font-size: 40px;
-  color:black;
-  display: flex;
-  justify-content: center;
-  align-items:center;
+  font-size: 60px;
 }
+
 
 .footer-content{
   background-color:  rgba(34, 49, 52, 0.9);
