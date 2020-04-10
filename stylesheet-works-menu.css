@@ -75,10 +75,6 @@ header{
   color: rgba(125, 178, 69, 1)
 }
 
-.onecontent{
-  margin-top:50px;
-  text-align: center;
-}
 .image{
   max-width:30%;
   margin: 0 auto;
@@ -86,8 +82,9 @@ header{
 
 .onecontent{
   display: inline-block;
+  text-align: center;
   width: 30%
-  margin:50px, 10px, 30px,30px;
+  margin: 50px, 10px, 30px,30px;
   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
   font-size: 40px;
   color:black;
