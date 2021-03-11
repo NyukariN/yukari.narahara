@@ -90,20 +90,20 @@ header{
 }
 
 .content-2020:link{
-  background-color:black;
+  color:black;
 }
 .content-2020:visited{
-  background-color:black;
+  color:black;
 }
 .content-2020:hover{
   background-color:rgba(248, 198, 0, 0.9);
 }
 
 .content-2019:link{
-  background-color:black;
+  color:black;
 }
 .content-2019:visited{
-  background-color:black;
+  color:black;
 }
 .content-2019:hover{
   background-color:rgba(248, 198, 0, 0.9);
