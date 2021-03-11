@@ -2,13 +2,9 @@ body {
   margin: 0;
   font-family: "Hiragino Kaku Gothic ProN";
 }
+a {text-decoration: none;
+}
 
-a:link {
-  color: black;
-}
-a:visited {
-  color: black;
-}
 
 li{
   list-style: none;
@@ -19,7 +15,7 @@ header{
   margin-bottom: 0px;
   height: 90px;
 }
-a .title{
+.title{
   color:white;
   float:left;
   margin-left: 50px;
