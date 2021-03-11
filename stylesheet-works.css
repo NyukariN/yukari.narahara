@@ -3,9 +3,6 @@ body {
   font-family: "Hiragino Kaku Gothic ProN";
 }
 
-a {
-  text-decoration: none;
-}
 a:link {
   color: black;
 }
